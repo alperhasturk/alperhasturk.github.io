@@ -41,7 +41,7 @@ export default function Home() {
             </ul>
           </nav>
           <div className="text-black text-center pb-12 dark:text-white ">
-            <h2 className="text-8xl text-cyan-600 pb-6 dark:text-cyan-300 font-extrabold">
+            <h2 className="text-7xl text-cyan-600 pb-6 dark:text-cyan-300 font-extrabold">
               Web Developer
             </h2>
             <h3 className="text-3xl">You can see my work here</h3>
