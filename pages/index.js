@@ -98,7 +98,7 @@ export default function Home() {
                 Made using C# and Unity Engine you can try it{" "}
                 <a
                   className="bg-gradient-to-r from-cyan-600 to-cyan-400 text-white px-3 py-1 rounded-lg hover:opacity-80"
-                  href="https://hotdogjump.web.app/"
+                  href="https://play.google.com/store/apps/details?id=com.alperhastrk.HotDogJump&hl=tr&gl=US"
                 >
                   here
                 </a>
