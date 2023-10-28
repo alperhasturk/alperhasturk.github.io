@@ -1,6 +1,5 @@
 import React, { useState, useRef } from "react";
 import Card from "./card";
-import cards from "./cards";
 import Image from "next/image";
 
 const CardSlider = ({ cards }) => {
