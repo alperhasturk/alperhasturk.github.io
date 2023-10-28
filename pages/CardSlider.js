@@ -1,6 +1,5 @@
 import React, { useState, useRef } from "react";
 import Card from "./card";
-import Image from "next/image";
 
 const CardSlider = ({ cards }) => {
   const [currentSlide, setCurrentSlide] = useState(0);
