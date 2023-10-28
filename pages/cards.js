@@ -3,6 +3,7 @@ import portfoliosite from "../public/portfoliosite.jpg";
 import globe from "../public/globe.jpg";
 import discord from "../public/discord.jpg";
 import funnel from "../public/funnel.jpg";
+
 const cards = [
   {
     title: "Password Generator",
@@ -13,9 +14,9 @@ const cards = [
   },
   {
     title: "Portfolio Site",
+    content: "Made using Next.js and Tailwind you can try it here",
     image: portfoliosite,
     alt: "portfolio site",
-    content: "Made using NextJS and Tailwind you can try it here",
     link: "https://alperhasturk.me",
   },
   {
@@ -33,11 +34,12 @@ const cards = [
     link: "https://github.com/alperhasturk/WorkoutBot",
   },
   {
-    title: "E-Mail funnel",
+    title: "E-Mail Funnel",
     content: "A funnel that I made using Next.js and TailwindCSS",
     image: funnel,
     alt: "email funnel",
     link: "https://kebup4325.github.io/short-form-marketing/",
   },
 ];
+
 export default cards;
