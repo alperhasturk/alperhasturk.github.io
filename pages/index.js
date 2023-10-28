@@ -3,7 +3,7 @@ import Image from "next/image";
 import toolsiuse from "../public/toolsiuse.png";
 import emoji from "../public/emoji.png";
 import { useState } from "react";
-import CardSlider from "./CardSlider";
+import CardSlider from "./api/components/CardSlider";
 import passwordgenerator from "../public/passwordgenerator.jpg";
 import portfoliosite from "../public/portfoliosite.jpg";
 import globe from "../public/globe.jpg";

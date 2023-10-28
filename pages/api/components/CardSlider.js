@@ -1,5 +1,5 @@
 import React, { useState, useRef } from "react";
-import Card from "./card";
+import Card from "../../card";
 
 const CardSlider = ({ cards }) => {
   const [currentSlide, setCurrentSlide] = useState(0);
