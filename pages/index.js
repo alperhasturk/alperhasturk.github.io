@@ -16,10 +16,10 @@ export default function Home() {
   return (
     <div className={darkMode ? "dark" : ""}>
       <Head>
-        <title>Alper Hasturk Personal Site</title>
-        <meta name="description" content="Personal Portfolio Site" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+      <title>Alper Hasturk Personal Site</title>
+      <meta name="description" content="Personal Portfolio Site" />
+      <meta name="viewport" content="width=device-width, initial-scale=1" />
+      <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
       </Head>
       <main className="bg-gray-200 font-poppins dark:bg-gradient-to-bl from-gray-900 to-indigo-900">
         <section className="min-h-screen">
